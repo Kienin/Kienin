@@ -28,6 +28,4 @@ AI & Machine Learning: Basics of neural networks, supervised and unsupervised le
 Cloud Computing: Understanding cloud infrastructure and services.
 
 📫 How to Reach Me
-Email: kevindacanay@gmail.com
-LinkedIn: linkedin.com/in/kevin-dacanay
 GitHub: github.com/kevindacanay
