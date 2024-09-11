@@ -21,10 +21,10 @@ AI & Machine Learning: Learning the fundamentals of AI and its applications in v
 🛠️ Skills
 
 Programming Languages: Python, Java, Lua
-Web Technologies: HTML, CSS, Django, Flask
+Web Technologies: HTML, CSS, Django, Flask, (currently learning Javascript)
 Databases: MySQL, PostgreSQL, MongoDB
 Cybersecurity: Network Security, Ethical Hacking, Encryption
-Tools & Platforms: Git, Docker, Linux
+Tools & Platforms: Git, Linux, (currently learning Docker)
 
 🌱 Currently Learning
 
