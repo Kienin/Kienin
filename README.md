@@ -14,16 +14,21 @@ In addition to my current skills, I am venturing into the exciting world of AI a
 🔍 Interests
 
 Software Development: Building efficient, scalable software solutions.
+
 Backend Development: Designing and maintaining server-side logic and databases.
+
 Cybersecurity: Protecting systems and data from vulnerabilities and threats.
+
 AI & Machine Learning: Learning the fundamentals of AI and its applications in various domains.
 
 🛠️ Skills
 
 Programming Languages: Python, Java, Lua
+
 Web Technologies: HTML, CSS, Django, Flask, (currently learning Javascript)
-Databases: MySQL, PostgreSQL, MongoDB
+
 Cybersecurity: Network Security, Ethical Hacking, Encryption
+
 Tools & Platforms: Git, Linux, (currently learning Docker)
 
 🌱 Currently Learning
