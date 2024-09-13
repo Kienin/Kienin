@@ -23,9 +23,9 @@ AI & Machine Learning: Learning the fundamentals of AI and its applications in v
 
 🛠️ Skills
 
-Programming Languages: Python, Java, Lua
+Programming Languages: Python, Java, Lua, (currently learning Javascript)
 
-Web Technologies: HTML, CSS, Django, Flask, (currently learning Javascript)
+Web Technologies: HTML, CSS, Django, Flask
 
 Cybersecurity: Network Security, Ethical Hacking, Encryption
 
