@@ -23,19 +23,30 @@ In addition to my current skills, I am venturing into the exciting world of AI a
 
 ## 🛠️ Skills
 
-Programming Languages: Python, Java, Lua, (currently learning Javascript)
+- **Programming Languages:** Python, Java, Lua, (currently learning Javascript)
 
-Web Technologies: HTML, CSS, Django, Flask
+- **Web Technologies:** HTML, CSS, Django, Flask
 
-Cybersecurity: Network Security, Ethical Hacking, Encryption
+- **Database Management:** SQL, (currently learning MongoDB)
 
-Tools & Platforms: Git, Linux, (currently learning Docker)
+- **Cybersecurity:** Network Security, Ethical Hacking, Encryption
+
+- **Tools & Platforms:** Git, Linux, (currently learning Docker)
 
 ## 🌱 Currently Learning
 
 AI & Machine Learning: Basics of neural networks, supervised and unsupervised learning, and AI algorithms.
 Cloud Computing: Understanding cloud infrastructure and services.
 
+## 📝 Fun Facts
+
+- I enjoy coding in my free time, doing Leetcode, doing online courses, and reading Coding books.
+- In my free time, I love working out and going to the gym.
+- I love to read books, fiction and non-fiction, even blog posts and tech papers.
+  
 ## 📫 How to Reach Me
 
 GitHub: github.com/Kienin
+
+---
+Thank you for visiting my profile! 🚀
