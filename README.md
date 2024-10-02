@@ -23,15 +23,15 @@ In addition to my current skills, I am venturing into the exciting world of AI a
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, Java, Lua, (currently learning Javascript)
+- **Programming Languages:** Python, Java, Lua, Javascript
 
 - **Web Technologies:** HTML, CSS, Django, Flask
 
-- **Database Management:** SQL, (currently learning MongoDB)
+- **Database Management:** SQL, Postgresql MongoDB,
 
 - **Cybersecurity:** Network Security, Ethical Hacking, Encryption
 
-- **Tools & Platforms:** Git, Linux, (currently learning Docker)
+- **Tools & Platforms:** Linux, Git, Docker
 
 ## 🌱 Currently Learning
 
